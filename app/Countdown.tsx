@@ -2,8 +2,6 @@
 
 import { useEffect, useState } from "react";
 
-const formatNumber = (n: number): string => String(n).padStart(2, "0");
-// format plural or singular unit
 const formatUnit = (n: number, unit: string): string => `${n} ${unit}${n !== 1 ? "s" : ""}`;
 
 const Countdown = () => {
