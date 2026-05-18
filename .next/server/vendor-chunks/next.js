@@ -1787,6 +1787,16 @@ eval("// This regex will have fast negatives meaning valid identifiers may not p
 
 /***/ }),
 
+/***/ "(rsc)/./node_modules/next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Gaegu\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"700\"}],\"variableName\":\"gaegu\"}":
+/*!*********************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/font/google/target.css?{"path":"app/page.tsx","import":"Gaegu","arguments":[{"subsets":["latin"],"weight":"700"}],"variableName":"gaegu"} ***!
+  \*********************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'Gaegu', 'Gaegu Fallback'\",\"fontWeight\":700,\"fontStyle\":\"normal\"},\n\t\"className\": \"__className_a8ab6d\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2dvb2dsZS90YXJnZXQuY3NzP3tcInBhdGhcIjpcImFwcC9wYWdlLnRzeFwiLFwiaW1wb3J0XCI6XCJHYWVndVwiLFwiYXJndW1lbnRzXCI6W3tcInN1YnNldHNcIjpbXCJsYXRpblwiXSxcIndlaWdodFwiOlwiNzAwXCJ9XSxcInZhcmlhYmxlTmFtZVwiOlwiZ2FlZ3VcIn0iLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBLFdBQVcsK0VBQStFO0FBQzFGO0FBQ0EiLCJzb3VyY2VzIjpbIi9Vc2Vycy9KdXN0aW4vRGVza3RvcC9wcm9qZWN0cy9naWp1LXRpbWVyL25vZGVfbW9kdWxlcy9uZXh0L2ZvbnQvZ29vZ2xlL3RhcmdldC5jc3M/e1wicGF0aFwiOlwiYXBwL3BhZ2UudHN4XCIsXCJpbXBvcnRcIjpcIkdhZWd1XCIsXCJhcmd1bWVudHNcIjpbe1wic3Vic2V0c1wiOltcImxhdGluXCJdLFwid2VpZ2h0XCI6XCI3MDBcIn1dLFwidmFyaWFibGVOYW1lXCI6XCJnYWVndVwifSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJzdHlsZVwiOiB7XCJmb250RmFtaWx5XCI6XCInR2FlZ3UnLCAnR2FlZ3UgRmFsbGJhY2snXCIsXCJmb250V2VpZ2h0XCI6NzAwLFwiZm9udFN0eWxlXCI6XCJub3JtYWxcIn0sXG5cdFwiY2xhc3NOYW1lXCI6IFwiX19jbGFzc05hbWVfYThhYjZkXCJcbn07XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbMF0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/font/google/target.css?{\"path\":\"app/page.tsx\",\"import\":\"Gaegu\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"700\"}],\"variableName\":\"gaegu\"}\n");
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/client/app-build-id.js":
 /*!*******************************************************!*\
   !*** ./node_modules/next/dist/client/app-build-id.js ***!
